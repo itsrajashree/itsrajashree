@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajashree R
 
-🎓 **BCA Graduate** | 🤖 **AI & Web Development Enthusiast**  
+🎓 **BCA Graduate** | 🧠 **AI & Web Development Enthusiast**  
 📍 India  
 
 [![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://itsrajashree.github.io/My-Portfolio)  
