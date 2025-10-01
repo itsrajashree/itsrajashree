@@ -47,7 +47,7 @@
 
 **Best regards,**  
 🌸 *Rajashree R*  
-🎓 *BCA Graduate | 🤖 AI & Python Enthusiast*
+🎓 *BCA Graduate | AI & Python Enthusiast*
 
 📧 **Email**: rajashree.careerpath@gmail.com  
 📞 **Phone**: +91 76049 34592  
