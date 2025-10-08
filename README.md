@@ -1,58 +1,118 @@
-# 👋 Hi, I'm Rajashree R
 
-🎓 **BCA Graduate** | 🧠 **AI & Web Development Enthusiast**  
-📍 India  
+<!-- Rajashree Radhakrishnan GitHub Profile README -->
+<p align="center">
 
-[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://itsrajashree.github.io/My-Portfolio)  
-[![🎨 Fiverr](https://img.shields.io/badge/Hire%20me%20on%20Fiverr-green)](https://www.fiverr.com/s/zW4p61d)  
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrajashree)  
-![Profile Views](https://komarev.com/ghpvc/?username=itsrajashree&color=brightgreen)
-
-🌐 **Latest Project**: [Lakshmi E-Services Website](https://lakshmi-online-center.netlify.app)
+<h1 align="center">👋 Hi, I'm <span style="color:#0077ff;">Rajashree Radhakrishnan</span></h1>
+<h3 align="center">🌌 Aspiring AI & Web Developer | 🎨 Creative Graphic Designer | 💡 Innovator at Heart</h3>
 
 ---
 
-## 💪 Skillset
+### 🌸 About Me  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+> "Creativity is not just design — it’s the soul of innovation."  
 
----
+💫 I’m **Rajashree R**, a passionate **BCA Graduate** from India,  
+blending **AI technology** with **artistic design** to bring ideas to life.  
+I believe in learning by creating — every project I build is a reflection of growth, effort, and imagination.  
 
-## 📈 GitHub Stats
-
-![Rajashree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsrajashree&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsrajashree&layout=compact&theme=tokyonight)
+🧠 **AI Learner:** Deep learning, CNNs, and real-world vision projects  
+🎨 **Designer:** Flyers, posters & branding on Canva  
+💻 **Developer:** Clean, elegant websites powered by logic and style  
+🌱 **Goal:** Innovate with heart, learn endlessly, and inspire others  
 
 ---
 
-## 🔜 Upcoming Projects
+## 💡 My Innovation Blend
 
-- 🧠 Character Recognition using CNN  
-- ✋ Hand Gesture Detection  
-- 🦪 Diabetes Prediction with Deep Learning  
-- 🌐 Lakshmi E-Services Website  
-- 🎨 Canva Poster & Logo Gallery  
-
-**Stay tuned 🚀**
+| Tech Power 💻 | Creative Vision 🎨 | Passion 🔥 |
+|---------------|--------------------|-------------|
+| Python · TensorFlow · OpenCV | Canva · Figma · Minimal Design | AI · Design · People-Centric Projects |
 
 ---
 
-## 📬 Let's Connect
+## 🧠 Current Focus  
 
-**Best regards,**  
-🌸 *Rajashree R*  
-🎓 *BCA Graduate | AI & Python Enthusiast*
+> 🚀 Exploring the intersection of **AI + Art + Web Design**  
+> 👁️ Learning computer vision, OCR, and recognition systems  
+> 🎨 Expanding my design portfolio through unique poster & flyer work  
 
-📧 **Email**: rajashree.careerpath@gmail.com  
-📞 **Phone**: +91 76049 34592  
-🔗 **GitHub**: [github.com/itsrajashree](https://github.com/itsrajashree)  
-🌐 **Portfolio**: [itsrajashree.github.io/My-Portfolio](https://itsrajashree.github.io/My-Portfolio)  
-💼 **LinkedIn**: [linkedin.com/in/itsrajashree](https://www.linkedin.com/in/itsrajashree)  
-🎨 **Fiverr**: [fiverr.com/s/zW4p61d](https://www.fiverr.com/s/zW4p61d)  
-🌐 **Netlify Project**: [lakshmi-online-center.netlify.app](https://lakshmi-online-center.netlify.app)
+---
+
+## 🌟 Featured Project  
+### [Lakshmi E-Services Website 🌐](https://lakshmi-online-center.netlify.app)
+A user-friendly platform designed for **online and government services**,  
+showcasing my ability to combine **technical build** with **visual harmony**.  
+
+---
+
+## 🧩 My Learning Projects  
+
+- 🖼️ **Image Classification using CNN** — understanding the power of training  
+- ✋ **Hand Gesture Recognition** — translating motion into meaning  
+- 💉 **Diabetes Prediction using Deep Learning** — health meets AI  
+- 🔤 **Character Recognition GUI** — connecting code with creativity  
+- 🌐 **Lakshmi E-Services Website** — design meets function  
+- 🎨 **Canva Design Gallery** — showcasing visual storytelling  
+
+---
+
+## 🎨 Design Meets Code  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Design+with+Purpose.;Code+with+Passion.;Innovate+with+Heart.%F0%9F%92%96" alt="Design + Code + Innovation">
+</p>
+
+---
+
+## ⚙️ Tech Stack & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,html,css,js,netlify,figma,canva,vscode,git,github&theme=light" />
+</p>
+
+---
+
+## 📈 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrajashree&show_icons=true&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrajashree&theme=radical&hide_border=true" width="48%">
+</p>
+
+---
+
+## 💫 My Creative Process  
+
+> ✨ *Observe → Imagine → Design → Build → Improve* 
+Each project starts with an idea —  
+then transforms through design, logic, and a bit of late-night code ☕  
+
+
+---
+
+### 💼 Let’s Connect
+<p align="center">
+  <a href="mailto:rajashree.careerpath@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/itsrajashree"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/itsrajashree"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://itsrajashree.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+--- 
+
+**Rajashree R**  
+🎓 *BCA Graduate | AI & Web Developer | Designer*  
+
+📧 **Email:** [rajashree.careerpath@gmail.com](mailto:rajashree.careerpath@gmail.com)  
+🌐 **Portfolio:** [itsrajashree.github.io/My-Portfolio](https://itsrajashree.github.io/My-Portfolio)  
+💼 **LinkedIn:** [linkedin.com/in/itsrajashree](https://www.linkedin.com/in/itsrajashree)  
+🎨 **Fiverr:** [fiverr.com/s/zW4p61d](https://www.fiverr.com/s/zW4p61d)  
+📍 **GitHub:** [github.com/itsrajashree](https://github.com/itsrajashree)
+
+---
+
+<h3 align="center">💖 “Create from curiosity, build from belief.” 💖</h3>
+
+<p align="center">
+  <img src="https://github.com/itsrajashree/itsrajashree/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
