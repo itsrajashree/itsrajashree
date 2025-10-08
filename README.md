@@ -113,6 +113,3 @@ then transforms through design, logic, and a bit of late-night code ☕
 
 <h3 align="center">💖 “Create from curiosity, build from belief.” 💖</h3>
 
-<p align="center">
-  <img src="https://github.com/itsrajashree/itsrajashree/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
